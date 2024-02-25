@@ -38,3 +38,9 @@ Data Set folder has 6 csv files. Please use the data dictionary (attached in the
 4. Code should be strictly developed using Data Frame APIs (Do not use Spark SQL)
 
 5. Share the entire project as zip or link to project in GitHub repo.
+
+### Instructions
+1. Follow the https://saumyagoyal.medium.com/how-to-install-pyspark-on-windows-faf7ac293ecf to setup pyspark on windows
+2. Once the above step is done, Clone this repo
+3. cd BCG_casestudy
+4. spark-submit --master "local[*]" main.py
